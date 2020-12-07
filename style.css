@@ -1,0 +1,33 @@
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.2rem;
+    /* margin-bottom: 1rem; */
+  }
+  .bold {
+    /* padding-left: 1rem; */
+    font-weight: 700;
+  }
+  .blue {
+    background-color: lightcoral;
+  }
+  .red {
+    background-color: lightblue;
+  }
+  .stButton>button {
+    font-size:12px;
+    font-weight: 500;
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.2rem;
+    background-color:rgb(0, 134, 218);
+}
+.stButton>button:hover {
+  font-size:12px;
+  font-weight: 100;
+  border-radius: 0.4rem;
+  border-color: rgb(0, 134, 218);
+  color: rgb(0, 134, 218);
+  padding: 0.2rem;
+  background-color:white;
+}
