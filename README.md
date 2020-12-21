@@ -1,1 +1,1 @@
-# pellet_app
+# Pellet Detection Apllication
